@@ -191,7 +191,7 @@ def process_message(raw_msg):
             critical_domain = min(predictions, key=predictions.get)
             current_low_rul = predictions[critical_domain]
             
-            # SUPPRESS CRITICAL FAULTS during warm-up phase to avoid user frustration
+            # SUPPRESS CRITICAL FAULTS during warm-up phase to avoid  frustration
             is_warmed_up = frame_counter > Config.WARM_UP_CYCLES
             
             if current_low_rul < Config.CRITICAL_RUL and is_warmed_up:
@@ -214,7 +214,7 @@ def process_message(raw_msg):
         return None
 
 # -----------------
-# Background Tasks
+# BackGround Tasks
 # -----------------
 global_acoustic_state = "IDLE..."
 global_acoustic_url = None
