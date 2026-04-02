@@ -4,7 +4,7 @@ import {
 } from 'recharts';
 
 const AnalyticsChart = ({ data }) => {
-  // data should be an array of objects e.g., [{ time: '10:00', rpm: 2500, speed: 60 }]
+  // data will be an array of objects e.g., [{ time: '10:00', rpm: 2500, speed: 60 }]
   
   if (!data || data.length === 0) {
     return (
