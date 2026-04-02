@@ -1,0 +1,106 @@
+{
+    "engine": {
+        "features": [
+            "sensor_11",
+            "sensor_4",
+            "sensor_12",
+            "sensor_7",
+            "sensor_15",
+            "sensor_21",
+            "sensor_20",
+            "sensor_17",
+            "sensor_2",
+            "sensor_3"
+        ],
+        "display_names": {
+            "sensor_11": "Temperature",
+            "sensor_4": "Pressure",
+            "sensor_12": "Vibration",
+            "sensor_7": "Voltage",
+            "sensor_15": "Current",
+            "sensor_21": "Speed",
+            "sensor_20": "Strain",
+            "sensor_17": "Flow",
+            "sensor_2": "Load",
+            "sensor_3": "Efficiency"
+        }
+    },
+    "brakes": {
+        "features": [
+            "sensor_16",
+            "sensor_14",
+            "sensor_11",
+            "sensor_4",
+            "sensor_15",
+            "sensor_17",
+            "sensor_3",
+            "sensor_9",
+            "sensor_2",
+            "sensor_20"
+        ],
+        "display_names": {
+            "sensor_16": "Temperature",
+            "sensor_14": "Pressure",
+            "sensor_11": "Vibration",
+            "sensor_4": "Voltage",
+            "sensor_15": "Current",
+            "sensor_17": "Speed",
+            "sensor_3": "Strain",
+            "sensor_9": "Flow",
+            "sensor_2": "Load",
+            "sensor_20": "Efficiency"
+        }
+    },
+    "battery": {
+        "features": [
+            "sensor_11",
+            "sensor_4",
+            "sensor_17",
+            "sensor_3",
+            "sensor_2",
+            "sensor_9",
+            "sensor_13",
+            "sensor_8",
+            "sensor_14",
+            "sensor_10"
+        ],
+        "display_names": {
+            "sensor_11": "Temperature",
+            "sensor_4": "Pressure",
+            "sensor_17": "Vibration",
+            "sensor_3": "Voltage",
+            "sensor_2": "Current",
+            "sensor_9": "Speed",
+            "sensor_13": "Strain",
+            "sensor_8": "Flow",
+            "sensor_14": "Load",
+            "sensor_10": "Efficiency"
+        }
+    },
+    "tires": {
+        "features": [
+            "sensor_14",
+            "sensor_16",
+            "sensor_11",
+            "sensor_4",
+            "sensor_3",
+            "sensor_17",
+            "sensor_9",
+            "sensor_10",
+            "sensor_2",
+            "sensor_12"
+        ],
+        "display_names": {
+            "sensor_14": "Temperature",
+            "sensor_16": "Pressure",
+            "sensor_11": "Vibration",
+            "sensor_4": "Voltage",
+            "sensor_3": "Current",
+            "sensor_17": "Speed",
+            "sensor_9": "Strain",
+            "sensor_10": "Flow",
+            "sensor_2": "Load",
+            "sensor_12": "Efficiency"
+        }
+    }
+}

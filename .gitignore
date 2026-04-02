@@ -1,0 +1,32 @@
+# Python build/cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+build/
+dist/
+*.egg-info/
+
+# Model Files & Metrics (Included for competition)
+!model/*.pkl
+!model/*.json
+
+# Local Data
+data/raw/*.csv
+data/raw/*.txt
+data/raw/car diagnostics dataset/
+
+# Node environment
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

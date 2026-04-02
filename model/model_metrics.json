@@ -1,0 +1,10 @@
+{
+    "engine_rmse": 22.04,
+    "engine_mae": 16.7,
+    "brakes_rmse": 20.26,
+    "brakes_mae": 15.2,
+    "battery_rmse": 16.35,
+    "battery_mae": 11.04,
+    "tires_rmse": 18.89,
+    "tires_mae": 13.43
+}
