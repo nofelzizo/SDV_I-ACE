@@ -1,6 +1,6 @@
 # SDV_KNK: Pitch Deck Outline (12 Slides)
 
-This outline provides a structured flow for your final 8-12 slide presentation. Use these titles and bullet points for your powerpoint/canva slides.
+This outline provides a structured flow for the  final 12 slide presentation.
 
 ---
 
