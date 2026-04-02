@@ -12,7 +12,7 @@ import librosa
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - [%(levelname)s] - %(message)s")
 logger = logging.getLogger("Acoustic_DNN")
 
-# Path to the real Kaggle Dataset the user provided
+# Path to the real Kaggle Dataset provided
 AUDIO_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "data", "raw", "car diagnostics dataset"))
 MODEL_DIR = os.path.dirname(__file__)
 
