@@ -5,7 +5,7 @@
 ---
 
 ## 1. Executive Summary
-SDV_KNK (Software-Defined Vehicle - King Network Kraken) is a robust analytical framework designed to shift vehicle maintenance from reactive to proactive. By utilizing the NASA CMAPSS dataset for RUL (Remaining Useful Life) regression and real-time audio-inference for mechanical diagnostics, the platform offers a 360-degree view of vehicle health through a mission-critical "Command Center" dashboard.
+SDV_KNK (Software-Defined(or Diagnostic) Vehicle ) is a robust analytical framework designed to shift vehicle maintenance from reactive to proactive. By utilizing the NASA CMAPSS dataset for RUL (Remaining Useful Life) regression and real-time audio-inference for mechanical diagnostics, the platform offers a 360-degree view of vehicle health through a mission-critical "Command Center" dashboard.
 
 ## 2. System Architecture (4-Layer Model)
 The project utilizes a decoupled, event-driven infrastructure:
